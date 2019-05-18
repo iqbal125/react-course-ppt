@@ -1,1 +1,1 @@
-# react_course_ppt
+Powerpoint slides for React course
